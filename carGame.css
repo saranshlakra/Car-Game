@@ -1,0 +1,30 @@
+.div1 {
+  background-color: #eff3f6;
+  width: 100%;
+  height: fit-content;
+  z-index: 10;
+  position: fixed;
+  padding-left: 33vw;
+  padding-bottom: 2vh;
+}
+
+#start {
+  width: 24vw;
+  border-radius: 4px;
+  background-color: #1cc06d;
+  border: none;
+  height: 8vh;
+}
+
+.gameData {
+  background-color: lightgrey;
+  width: 100%;
+  height: fit-content;
+  position: absolute;
+  margin-top: 30vh;
+  padding: 2vh;
+}
+
+#start:hover {
+  background-color: mediumseagreen;
+}
